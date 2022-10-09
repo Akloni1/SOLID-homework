@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jrHaVDrw23OEm2PEcqZ3o8SfK146LNrze081XGsJjrlsluZLIbZ87eiTD3YhJBDVg8zdpCCDP+y/OGBT1CGBkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Михаил\\Desktop\\Solid\\P03.Detail_Printer\\P03.Detail_Printer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Михаил\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512",
+    "C:\\Users\\Михаил\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Михаил\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Михаил\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
