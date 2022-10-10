@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Михаил\\Desktop\\Solid\\P02.Graphic_Editor\\P02.Graphic_Editor.csproj": {}
+    "C:\\Users\\Михаил\\Desktop\\GitProjects\\SOLID-homework\\P02.Graphic_Editor\\P02.Graphic_Editor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Михаил\\Desktop\\Solid\\P02.Graphic_Editor\\P02.Graphic_Editor.csproj": {
+    "C:\\Users\\Михаил\\Desktop\\GitProjects\\SOLID-homework\\P02.Graphic_Editor\\P02.Graphic_Editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Михаил\\Desktop\\Solid\\P02.Graphic_Editor\\P02.Graphic_Editor.csproj",
+        "projectUniqueName": "C:\\Users\\Михаил\\Desktop\\GitProjects\\SOLID-homework\\P02.Graphic_Editor\\P02.Graphic_Editor.csproj",
         "projectName": "P02.Graphic_Editor",
-        "projectPath": "C:\\Users\\Михаил\\Desktop\\Solid\\P02.Graphic_Editor\\P02.Graphic_Editor.csproj",
+        "projectPath": "C:\\Users\\Михаил\\Desktop\\GitProjects\\SOLID-homework\\P02.Graphic_Editor\\P02.Graphic_Editor.csproj",
         "packagesPath": "C:\\Users\\Михаил\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Михаил\\Desktop\\Solid\\P02.Graphic_Editor\\obj\\",
+        "outputPath": "C:\\Users\\Михаил\\Desktop\\GitProjects\\SOLID-homework\\P02.Graphic_Editor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Михаил\\AppData\\Roaming\\NuGet\\NuGet.Config",

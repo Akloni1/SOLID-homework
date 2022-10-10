@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vZrbzwI0X1JOuUVXOqrG5Uu7CQUk8jjHr8YUmf5993/jT1IKpAPChIHQrrHtEqZMFBdqBW7mSMdUvrMh5KrFww==",
+  "dgSpecHash": "z4bBVRiaQaUrVtrr0uD9YMklvqkW9BOz/7u6kWWYPVZ/7OoAtGnN/EGN1d44O+VnoKouz6eSZq6ahrYE6++OEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Михаил\\Desktop\\Solid\\P01.Stream_Progress\\P01.Stream_Progress.csproj",
+  "projectFilePath": "C:\\Users\\Михаил\\Desktop\\GitProjects\\SOLID-homework\\P01.Stream_Progress\\P01.Stream_Progress.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Михаил\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512",
     "C:\\Users\\Михаил\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",

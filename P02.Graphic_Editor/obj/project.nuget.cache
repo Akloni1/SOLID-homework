@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2axMi37TSOXA5CdPQFl1HdcF6kATOCzJEVzrHq63+VzxGrUJkNNRjpk4hhGvm8jY8JDFB+jPEUUgccJ10Lsgtg==",
+  "dgSpecHash": "vEGLW046UypOSvkg8m2eJ4H/nN282vZKJyALSG1P0+4i+g1ltOZjj/9GfxTCoakxJG88e5nnm49bxUZ/q3GZQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Михаил\\Desktop\\Solid\\P02.Graphic_Editor\\P02.Graphic_Editor.csproj",
+  "projectFilePath": "C:\\Users\\Михаил\\Desktop\\GitProjects\\SOLID-homework\\P02.Graphic_Editor\\P02.Graphic_Editor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Михаил\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512",
     "C:\\Users\\Михаил\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Михаил\\Desktop\\Solid\\P03.Detail_Printer\\P03.Detail_Printer.csproj": {}
+    "C:\\Users\\Михаил\\Desktop\\GitProjects\\SOLID-homework\\P03.Detail_Printer\\P03.Detail_Printer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Михаил\\Desktop\\Solid\\P03.Detail_Printer\\P03.Detail_Printer.csproj": {
+    "C:\\Users\\Михаил\\Desktop\\GitProjects\\SOLID-homework\\P03.Detail_Printer\\P03.Detail_Printer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Михаил\\Desktop\\Solid\\P03.Detail_Printer\\P03.Detail_Printer.csproj",
+        "projectUniqueName": "C:\\Users\\Михаил\\Desktop\\GitProjects\\SOLID-homework\\P03.Detail_Printer\\P03.Detail_Printer.csproj",
         "projectName": "P03.Detail_Printer",
-        "projectPath": "C:\\Users\\Михаил\\Desktop\\Solid\\P03.Detail_Printer\\P03.Detail_Printer.csproj",
+        "projectPath": "C:\\Users\\Михаил\\Desktop\\GitProjects\\SOLID-homework\\P03.Detail_Printer\\P03.Detail_Printer.csproj",
         "packagesPath": "C:\\Users\\Михаил\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Михаил\\Desktop\\Solid\\P03.Detail_Printer\\obj\\",
+        "outputPath": "C:\\Users\\Михаил\\Desktop\\GitProjects\\SOLID-homework\\P03.Detail_Printer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Михаил\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Михаил\\Desktop\\Solid\\P01.Stream_Progress\\P01.Stream_Progress.csproj",
+      "projectUniqueName": "C:\\Users\\Михаил\\Desktop\\GitProjects\\SOLID-homework\\P01.Stream_Progress\\P01.Stream_Progress.csproj",
       "projectName": "P01.Stream_Progress",
-      "projectPath": "C:\\Users\\Михаил\\Desktop\\Solid\\P01.Stream_Progress\\P01.Stream_Progress.csproj",
+      "projectPath": "C:\\Users\\Михаил\\Desktop\\GitProjects\\SOLID-homework\\P01.Stream_Progress\\P01.Stream_Progress.csproj",
       "packagesPath": "C:\\Users\\Михаил\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Михаил\\Desktop\\Solid\\P01.Stream_Progress\\obj\\",
+      "outputPath": "C:\\Users\\Михаил\\Desktop\\GitProjects\\SOLID-homework\\P01.Stream_Progress\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Михаил\\AppData\\Roaming\\NuGet\\NuGet.Config",
