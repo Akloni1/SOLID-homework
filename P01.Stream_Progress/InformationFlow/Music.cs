@@ -8,18 +8,15 @@ namespace P01.Stream_Progress.InformationFlow
     {
         private string artist;
         private string album;
+        public int Length { get; set; }
 
-        public Music(string artist, string album, int length, int bytesSent)
-            :base(length, bytesSent)
+        public Music(string artist, string album, int length)
         {
             this.artist = artist;
             this.album = album;
-            //Length = length;
-            //BytesSent = bytesSent;
+            this.Length = length;
+           
         }
 
-      // public int Length { get; set; }
-      //
-      // public int BytesSent { get; set; }
     }
 }

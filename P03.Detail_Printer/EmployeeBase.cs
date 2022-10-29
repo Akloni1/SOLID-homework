@@ -11,7 +11,5 @@ namespace P03.Detail_Printer
         {
             this.Name = name;
         }
-
-        public abstract void PrintDetails();
     }
 }

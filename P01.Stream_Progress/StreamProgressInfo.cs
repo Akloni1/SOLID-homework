@@ -1,23 +1,26 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using P01.Stream_Progress.InformationAboutBytesSent;
 using P01.Stream_Progress.InformationFlow;
 
 namespace P01.Stream_Progress
 {
     public class StreamProgressInfo
     {
-        private FlowInformation flowInformation;
+        private FlowInformation _flowInformation;
+        private IStream _stream;
 
         // If we want to stream a music file, we can't
-        public StreamProgressInfo(FlowInformation flowInformation)
+        public StreamProgressInfo(FlowInformation flowInformation, IStream stream)
         {
-            this.flowInformation = flowInformation;
+            _flowInformation = flowInformation;
+            _stream = stream;
         }
 
         public int CalculateCurrentPercent()
         {
-            return (this.flowInformation.BytesSent * 100) / this.flowInformation.Length;
+            return (_stream.BytesSent * 100) / _flowInformation.Length;
         }
     }
 }

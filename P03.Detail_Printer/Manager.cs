@@ -5,7 +5,7 @@ using System.Text;
 
 namespace P03.DetailPrinter
 {
-    public class Manager : EmployeeBase
+    public class Manager : EmployeeBase, IReport
     {
         public Manager(string name, ICollection<string> documents) : base(name)
         {
@@ -14,7 +14,7 @@ namespace P03.DetailPrinter
 
         public IReadOnlyCollection<string> Documents { get; set; }
 
-        public override void PrintDetails()
+        public void PrintDetails()
         {
             Console.WriteLine(Name);
             Console.WriteLine(string.Join(Environment.NewLine, Documents));

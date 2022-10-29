@@ -5,14 +5,16 @@ using System.Text;
 
 namespace P03.DetailPrinter
 {
-    public class Employee : EmployeeBase
+    public class Employee : EmployeeBase, IReport
     {
         public Employee(string name) : base(name)
         {
         }
-        public override void PrintDetails()
+
+        public void PrintDetails()
         {
             Console.WriteLine(Name);
         }
+
     }
 }

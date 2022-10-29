@@ -4,14 +4,15 @@
     {
         private string name;
 
-        public File(string name, int length, int bytesSent)
-            :base(length,bytesSent)
+        public File(string name, int length)
         {
             this.name = name; 
         }
 
-     //   public int Length { get; set; }
-     //
-     //   public int BytesSent { get; set; }
+        public int Length { get ; set; }
+
+        //   public int Length { get; set; }
+        //
+        //   public int BytesSent { get; set; }
     }
 }

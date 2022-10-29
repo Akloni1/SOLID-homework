@@ -20,26 +20,10 @@ namespace P03.DetailPrinter
             {
                 employee.PrintDetails();
 
-                /*if (employee is Manager)
-                {
-                    this.PrintManager((Manager)employee);
-                }
-                else
-                {
-                    this.PrintEmployee(employee);
-                }*/
+
             }
         }
 
-       /* private void PrintEmployee(Employee employee)
-        {
-            Console.WriteLine(employee.Name);
-        }
 
-        private void PrintManager(Manager manager)
-        {
-            Console.WriteLine(manager.Name);
-            Console.WriteLine(string.Join(Environment.NewLine, manager.Documents));
-        }*/
     }
 }
